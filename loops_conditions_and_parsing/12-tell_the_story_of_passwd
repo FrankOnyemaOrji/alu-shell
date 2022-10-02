@@ -1,4 +1,4 @@
-#!/bin/bashenv bash
+#!/bin/bash/env bash
 #bash script that display the content of the file /etc/passwd, 
 #using the while loop + IFS
 
