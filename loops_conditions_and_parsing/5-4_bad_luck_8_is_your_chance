@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 #Change the 4th, 8th loop iterations
 
 ((n=1))
